@@ -1,0 +1,13 @@
+# Learner person for this ggplot2 lesson
+
+Scott is a manager in the Pharmacometrics group at a multinational pharmaceutical 
+company with 6 colleagues reporting into him. He has used R for over 10 years and
+is very familiar with base R and how to create plots using it. He would like to 
+be able to review and QC ggplot2 code that his direct reports have prepared but 
+would also like to prepare some graphs using ggplot2 for his own work. He doesn't 
+have much time to troubleshoot making these graphs - he needs to be productive 
+with ggplot2 quickly.
+
+This lesson will help Scott get started with ggplot2 and allow him to create useful
+graphs in 15 minutes. We'll focus on functionality that Scott is likely to use 
+frequently.

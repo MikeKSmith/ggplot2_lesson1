@@ -1,0 +1,19 @@
+README!
+
+Thanks for looking at this lesson on "Getting started with ggplot2". It's designed for 
+somebody who is quite familiar with base R, but hasn't yet started using ggplot2. 
+
+Within our domain (pharmacometrics) the most typical plot we see is time-course of 
+some biological measurement e.g. plasma concentration of some drug within 
+subjects. So the aim of this lesson is to get up to speed quickly with plotting
+this kind of data.
+
+Follow the instructions in the .Rmd file and fill in the blank spaces in the R 
+chunks, then run the chunk using the green arrow button or CTRL/CMD + ENTER.
+
+Once you have completed all the chunks you can render the output as HTML or PDF
+using the "knit" button / drop down menu.
+
+If you get stuck, please give me a shout on Twitter: @MikeKSmith. Alternatively
+I have an account at the RStudio Community https://community.rstudio.com/ 
+@MikeKSmith; and I'm on the R4DS Slack Channel at "Mike K Smith"
